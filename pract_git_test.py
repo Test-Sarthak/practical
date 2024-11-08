@@ -1,7 +1,8 @@
-#text
+#textC:\Users\91737\Downloads\git_test\pract_git_test.py
 
-A = 10
+a = 10
 b = 20
 
-c = A*b 
-print(c)
+sum = a+b
+d = a/b
+print(sum)
